@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+numpy
+pandas
+h5py
+scipy
+python-multipart
+httpx
+python-dotenv
+rasterio
+geopandas
